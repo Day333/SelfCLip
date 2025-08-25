@@ -17,6 +17,8 @@ pip install -r requirements.txt
 - `data/val.tsv` - 验证集 (98条)  
 - `data/test.tsv` - 测试集 (98条)
 
+下载链接：https://drive.google.com/file/d/1tanFbKNFm9RRro8i0uw-HZCuOI7YkO1r/view?usp=drive_link
+
 ### 3. 训练
 
 ```bash
